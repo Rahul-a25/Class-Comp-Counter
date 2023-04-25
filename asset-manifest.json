@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Class-Comp-Counter/static/css/main.073c9b0a.css",
+    "main.js": "/Class-Comp-Counter/static/js/main.09def25d.js",
+    "static/js/787.c1112931.chunk.js": "/Class-Comp-Counter/static/js/787.c1112931.chunk.js",
+    "index.html": "/Class-Comp-Counter/index.html",
+    "main.073c9b0a.css.map": "/Class-Comp-Counter/static/css/main.073c9b0a.css.map",
+    "main.09def25d.js.map": "/Class-Comp-Counter/static/js/main.09def25d.js.map",
+    "787.c1112931.chunk.js.map": "/Class-Comp-Counter/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.09def25d.js"
+  ]
+}
